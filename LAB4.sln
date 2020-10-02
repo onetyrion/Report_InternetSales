@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "LAB4", "LAB4\LAB4.rptproj", "{FDAB7802-F29E-43A8-96C8-DA169E7F634E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.Debug|Default.ActiveCfg = Debug
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.Debug|Default.Build.0 = Debug
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.Debug|Default.Deploy.0 = Debug
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.DebugLocal|Default.Build.0 = DebugLocal
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.Release|Default.ActiveCfg = Release
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.Release|Default.Build.0 = Release
+		{FDAB7802-F29E-43A8-96C8-DA169E7F634E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECD5A7C-C134-44FE-A709-B45B38395A91}
+	EndGlobalSection
+EndGlobal
